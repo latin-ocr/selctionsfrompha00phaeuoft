@@ -1,0 +1,45 @@
+20 SELECTIONS FROM PHAEDRUS.
+
+“ Quare sollicitum potius aevum ducitis,
+
+Quam regem me creatis icto foedere (155),
+
+Qui vos ab omni tutas praestem (244) iniuria '3''
+
+Illae credentes tradunt sese milvio (140), 15
+Qui, regnum adeptus, coepit vesci (159) singulas,
+
+Et exercere imperium saevis unguibus (154).
+
+De reliqiiis tunc una, “Merito plectimur ''.
+
+Parse-Tutmxdum, fugissent, inerme, tali, quare, ict0, foedere,
+praestem, adeptus, vesci, reliquis, merito.
+
+FABLE VI. (Π. 7).
+AQUILA, CORNIX, ET TESTUDO.
+
+Nothing] can resist strenyth and wickedness combined.
+
+Contra potentes nemo est munitus satis 3
+Si vero accessit consiliator maleficus,
+Vis et nequitia quidquid (es) oppugnant, ruit.
+Aquila in sublime sustulit testudinem.
+Quae quum abdidisset (243, 4) cornea corpus domo, 5
+Nec ullo pacto (154) laedi posset condita,
+Venit per auras cornix, et propter volans :
+“ Opimam sane praedam rapuisti unguibus 3
+Sed, nisi monstraro quid sit (242) faciendum tibi (221),
+Gravi nequiquam te lassabis pondere. 10
+Promissa parte (155), suadet ut scopulum super
+Altis ab astris duram illidat (241) corticem 3
+Qua comminuta (155) facile vescatur (244) cibo (159).
+Inducta verbis aquila monitis (141) paruit,
+Simul et magistrae (140) large divisit dapem. 15
+Sic tuta quae naturae fuerat munere,
+Impar duabus (143), occidit tristi nece (154).
+
+Parsa—Accessit, quidquid, sublime, abdidisset, pacto, propter,
+unguibus, monstraro, tibi, scopulum, vescatur, cibo, monitis,
+divisit, duabus, occidit.
+
